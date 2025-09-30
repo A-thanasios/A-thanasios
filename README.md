@@ -33,8 +33,6 @@
 
 ---
 
-##
-
 ⚡ Fun fact: I am an Archimage and an aspiring Tech-priest
 <!--
 **A-thanasios/A-thanasios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
