@@ -22,10 +22,10 @@
 
 - Pipelines & Orchestration: Docker, Docker Compose, Prefect
 
-## 🌟 Achievemnts
+## 🌟 Achievements
 
   - **Boot.dev Hackathon 2025** – Built a game (*Screaming Pussies*) with a friend in one weekend. While we didn’t win a prize, we received an *honourable mention* 🎉 → [Read more](https://blog.boot.dev/news/hackathon-2025/)  
-   > The game is about controlling a cat lost in a maze with your voice. We experimented with frequency analysis and had a lot of fun building it.  
+   > The game is about controlling a little cat, lost in a maze, with your voice. We experimented with frequency analysis and had a lot of fun building it.  
 
 - **Boot.dev Back-End Developer Path** – Helped me deepen my understanding of computer science and sharpen my ability to deploy models and pipelines efficiently.
 - **DataCamp Data Science Certification** – My first step toward professional data proficiency.  
@@ -33,7 +33,7 @@
 
 ---
 
-⚡ Fun fact: I am an Archimage and an aspiring Tech-priest
+⚡ Fun fact: I am an Archmage and an aspiring Tech-priest
 <!--
 **A-thanasios/A-thanasios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
